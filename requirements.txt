@@ -6,8 +6,10 @@ numba==0.56.4
 pyworld==0.3.3
 scipy==1.10.1
 SoundFile==0.12.1
-torch==1.13.1
-torchaudio==0.13.1
+# torch==1.13.1 #changed 2023-05-18
+torch==2.0.0
+#torchaudio==0.13.1
+torchaudio==2.0.0
 tqdm
 scikit-maad
 praat-parselmouth
